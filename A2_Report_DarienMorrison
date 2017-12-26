@@ -1,0 +1,24 @@
+Assignment 2 Report			Darien Morrison COP4610
+
+
+
+
+In this assignment I learned:
+
+- How to create a VM from an existing .vdi file in VirtualBox
+- How to download a kernel from the terminal
+- How to download a config file and configure a kernel using the config file from the terminal
+- How to compile a kernel
+- How to edit a bootloader config file to recognize a kernel
+- How to reboot a VM into a kernel
+- Loadable kernel modules allow us to add functionality to existing kernels without recompiling or rebooting
+- How to write a kernel module
+- How to compile and insert a kernel module
+- How to remove a kernel module
+- How to generate a kernel patch
+- How to restore a kernel configuration
+- How to add a system call to the file containing all of the system call names
+- How to add a system call to the file that contains the system call numbers passed to the kernel through the register when a system call is invoked
+- How to write a system call
+- How to test a system call
+
